@@ -2,7 +2,7 @@
 
 A macOS floating window media player control with an animated expandable drawer interface built in SwiftUI.
 
-![Demo](demo.gif)
+![Demo](Demo.gif)
 
 ## Features
 
